@@ -66,13 +66,6 @@ Once the backend is running, you can interact with the ToDo Task List applicatio
 
 You can test the API endpoints using tools like [Postman](https://www.postman.com/) or [curl](https://curl.se/).
 
-### Example Request
-
-- **Create a ToDo Task**:
-  ```bash
-  curl -X POST http://localhost:5000/api/todos -H "Content-Type: application/json" -d '{"title": "New Task", "completed": false}'
-  ```
-
 ## Frontend Interaction
 
 The frontend allows users to:
@@ -82,15 +75,3 @@ The frontend allows users to:
 - Delete tasks
 
 The frontend communicates with the backend API using JavaScript `fetch` calls to perform the necessary CRUD operations.
-
-## Contributing
-
-Contributions are welcome! If you have suggestions for improvements or issues to report, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-```
-
-Feel free to modify any sections to better fit your project's specifics or personal preferences!
