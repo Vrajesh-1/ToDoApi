@@ -17,8 +17,6 @@ This project is a ToDo Task List Application built with .NET 8 Web API for the b
 - [API Endpoints](#api-endpoints)
 - [Testing the API](#testing-the-api)
 - [Frontend Interaction](#frontend-interaction)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Technologies Used
 
