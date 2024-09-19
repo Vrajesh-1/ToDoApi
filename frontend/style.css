@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#todoList {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    padding: 8px;
+    border: 1px solid #ddd;
+    margin-top: 5px;
+}
