@@ -1,6 +1,3 @@
-Sure! Here's a README file template for your ToDo Task List Application project:
-
-```markdown
 # ToDo Task List Application
 
 ## Overview
